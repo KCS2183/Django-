@@ -1,1 +1,1 @@
-# Django-
+Django 연습용
